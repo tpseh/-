@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+}
+
+.naver{
+    width: 80%;
+    height: 50px;
+    background-color: white;
+
+    margin: 0 auto;
+    display: flex;
+}
+.naver1{
+    width: 20%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.naver2{
+    width: 80%;
+    height: 50px;
+}
+.naver3{
+
+    font-size: 14px;
+    list-style-type: none;
+
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    justify-content: space-evenly;
+    flex-wrap: nowrap; 
+}
+button{
+    font-size: 15px;
+
+    width: 130px;
+    height: 40px;
+
+    border: none;
+    border-radius: 5px;
+
+    color: wheat;
+    background-color: #4e5968; 
+
+}
+
+
+
+.her{
+    width: 100vw;
+    height: 100vh;
+
+    text-align: center;
+
+    background-image: url(new_main.png);
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+
+    padding-top: 80px;
+    
+}
+h1{
+    font-size: 50px;
+    line-height: 1.5em;
+}

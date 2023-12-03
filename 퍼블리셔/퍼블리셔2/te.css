@@ -1,0 +1,112 @@
+body{
+    background-color: #bea9ed;
+}
+
+.mani{
+    width: 100vw;
+    height: 100vh;
+    background-color: #bea9ed;    
+}
+.fin{
+    width: 100vw;
+    height: 80px;
+    background-color: #bea9ed;
+}
+.hero{
+    width: 70%;
+    height: 80px;
+
+    background-color: #bea9ed;
+
+    margin: 0 auto;
+    display: flex;
+}
+.hero3{
+    width: 50%;
+    height: 80px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+}
+.hero2{
+    width: 50%;
+    height: 80px;
+}
+.her{
+    border: none;
+    margin-bottom: 30px;
+    margin-right: 25px;
+    background-color: #bea9ed;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+
+}
+.h2{
+    font-size: 2em;
+    font-weight: bold;  
+    font-family: 'Black Han Sans'; 
+}
+.h3{
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Gowun Dodum';
+}
+.ki3{
+    width: 39%;
+}
+
+.ki{
+    width: 100vw;
+    height: calc(100vh-80px);
+    background-color: #bea9ed;
+    padding-top: 160px;
+    padding-left: 300px;
+    display: flex;
+}
+
+h1{
+    font-size: 57px;
+    line-height: 74px; 
+}
+h2{
+    font-size: 22px;
+    padding-top: 13px;
+
+}
+.k123{
+    width: 160px;
+    height: 50px;
+
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.kim{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+     
+}
+.img1{
+    position: absolute;
+    top: 200px;
+    right: 130px
+}
+
+
+.im{
+    position: relative;
+    bottom: 100px;
+    right: 90px;
+}
+img{
+    width: 430px;
+}
+
+
