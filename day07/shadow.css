@@ -1,0 +1,19 @@
+h1 {
+	margin: 30px 0;
+}
+
+h1:nth-child(1) {
+	text-shadow: 5px 5px;
+}
+
+h1:nth-child(2):hover {
+	text-shadow: 5px 5px 3px skyblue;
+}
+
+h1:nth-child(3) {
+	text-shadow: 0 0 3px pink;
+}
+
+h1:nth-child(4) {
+	text-shadow: 0 0 3px pink, 0 0 10px magenta, 0 0 20px darkblue;
+}
