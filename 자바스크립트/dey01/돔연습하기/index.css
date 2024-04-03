@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+body .container {
+  width: 50vw;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+body .container .button {
+  padding: 20px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-color: tomato;
+}/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,23 @@
+.container {
+  width: 100px;
+  height: 100px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  font-size: 11px;
+  gap: 10px;
+}
+.container .box {
+  width: 350px;
+  height: 136px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: white;
+  display: flex;
+  font-weight: 700;
+  gap: 10px;
+}
+.container .box img {
+  width: 177px;
+  height: 136px;
+  border-radius: 5px;
+}/*# sourceMappingURL=index.css.map */

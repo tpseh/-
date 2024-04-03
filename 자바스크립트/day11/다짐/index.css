@@ -1,0 +1,33 @@
+.container {
+	width: 100px;
+	height: 100px;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	font-size: 11px;
+	gap: 10px;
+	margin: 0 auto;
+
+	.grid-box {
+		width: 350px;
+		height: 136px;
+		border: 1px solid black;
+		border-radius: 5px;
+		background-color: white;
+		display: flex;
+		font-weight: 700;
+		gap: 10px;
+		img {
+			width: 177px;
+			height: 136px;
+			border-radius: 5px;
+		}
+	}
+}
+.button {
+	height: 30px;
+	border: none;
+	border-radius: 5px;
+	font-weight: 700;
+	margin-top: 50px;
+	background-color: rgba(211, 197, 170, 0.733);
+}
